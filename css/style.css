@@ -1,0 +1,29 @@
+.pic {background-color: azure;
+    margin-top: 10px;
+    border:1px solid black;
+    margin-left:1400px;height: 80px;
+    width: 70px;text-align: center;
+}
+
+
+.head {
+    text-align: center;
+}
+.container {width: 80%;margin: auto;
+    /* border: 1px solid black; */
+}
+
+.list {
+    list-style: none;
+}   
+.color{
+    background-color: aquamarine;width: 500px;
+}
+.light {
+    font-size: small;}
+    hr {
+        width:80px;
+    }
+    .sign{
+        text-align:right;
+    }
